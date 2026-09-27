@@ -1,4 +1,4 @@
-# 🌾 Smart Farming IoT — Real-Time Soil Monitoring & Irrigation System
+# 🌾 Smart Farming IoT — Real-Time Soil Monitoring & Irrigation System 
 
 <div align="center">
 
