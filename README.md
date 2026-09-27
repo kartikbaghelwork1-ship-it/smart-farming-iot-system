@@ -7,13 +7,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Dashboard-orange?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
 ![RS485](https://img.shields.io/badge/RS485-Modbus-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
 **An IoT-based precision agriculture system that monitors soil health in real-time and automates irrigation using ESP32 microcontroller with multiple sensor integrations.**
 
-[🚀 Live Dashboard](https://kartikbaghelwork1-ship-it.github.io/smart-farming-iot/dashboard/) · [📖 Documentation](#-how-it-works) · [🔧 Setup Guide](#-setup--installation)
+[🚀 Live Dashboard](https://kartikbaghelwork1-ship-it.github.io/smart-farming-iot-system/dashboard/) · [📖 Documentation](#-how-it-works) · [🔧 Setup Guide](#-setup--installation)
 
 </div>
+
+> ⚠️ **Note:** The dashboard displays **simulated demo data** until it is connected to the actual ESP32 hardware. For a complete demonstration with real sensor readings, please **prefer watching the project demo video.**
 
 ---
 
@@ -133,7 +134,7 @@ A **low-cost, real-time soil monitoring and smart irrigation system** that:
 - Arduino IDE with ESP32 board package
 - Libraries: `ArduinoJson 7`, `DHT sensor library (Adafruit)`, `Adafruit Unified Sensor`
 
-### Hardware Wiring (MITS-DU Trainer Kit)
+### Hardware Wiring (ESP32 Trainer Kit)
 
 | Component | ESP32 GPIO |
 |-----------|-----------|
@@ -259,22 +260,15 @@ smart-farming-iot/
 
 | Name | Role |
 |------|------|
-| Kartik Baghel | Developer & IoT Integration |
-
-**Institution:** MITS-DU, Gwalior — Centre for IoT
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+| Kartik Baghel | UI Development & Hardware-Software Integration |
+| Ajay Dhakad | Development & IoT Integration |
+| Mayank Sharma | AI Related Work & Deployment |
+| Hariom Sharma | Connectivity, Research & Presentation |
 
 ---
 
 <div align="center">
 
 **Made with ❤️ for Indian Farmers**
-
-*Designed and Developed at Centre for IoT, MITS-DU, Gwalior*
 
 </div>
